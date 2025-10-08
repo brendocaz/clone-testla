@@ -1,4 +1,4 @@
-![Tesla Logo](./tesla-logo-p-6.svg)
+
 
 <h1>⚡ Clone do Site da Tesla</h1>
 
